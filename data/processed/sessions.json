@@ -1,0 +1,24 @@
+[
+  {
+    "stint": "Stint 1",
+    "driver": "Driver A",
+    "date": "02/04/2025",
+    "simulator": "AC v1.16.4 data exported using ACTI v1.1.2",
+    "vehicle": "rss_formula_rss_4_2024",
+    "venue": "actk_var",
+    "session": "PRACTICE",
+    "tyres": "Tires: Slick (S)",
+    "track_length_m": 2056.2
+  },
+  {
+    "stint": "Stint 6",
+    "driver": "Driver A",
+    "date": "03/04/2025",
+    "simulator": "AC v1.16.4 data exported using ACTI v1.1.2",
+    "vehicle": "rss_formula_rss_4_2024",
+    "venue": "actk_var",
+    "session": "PRACTICE",
+    "tyres": "Tires: Slick (S)",
+    "track_length_m": 2056.2
+  }
+]

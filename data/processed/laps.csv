@@ -1,0 +1,14 @@
+Stint,Lap,LapTime_s,Status,Spin,IncidentDistance_m,VMax_kmh,FuelStart_l,GapToBest_s
+Stint 1,0,64.531,out-lap,False,,207.783,29.986,15.768
+Stint 1,1,49.519,clean,False,,207.273,29.333,0.756
+Stint 1,2,48.862,clean,False,,207.61,28.724,0.099
+Stint 1,3,55.022,incident,True,271.277,207.06,28.124,6.259
+Stint 1,4,48.917,clean,False,,207.74,27.487,0.154
+Stint 1,5,52.518,incident,True,271.894,207.65,26.888,3.755
+Stint 1,6,48.937,clean,False,,207.583,26.266,0.174
+Stint 1,7,48.763,clean,False,,207.733,25.67,0.0
+Stint 1,8,,incomplete,True,258.871,198.567,25.073,
+Stint 6,0,80.96,out-lap,False,,207.07,29.987,32.197
+Stint 6,1,49.781,clean,False,,207.343,29.351,1.018
+Stint 6,2,48.946,clean,False,,208.053,28.742,0.183
+Stint 6,3,,incomplete,True,267.439,198.51,28.139,

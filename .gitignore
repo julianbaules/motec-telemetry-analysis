@@ -1,0 +1,20 @@
+# Raw MoTeC files: not published (driver name in the metadata)
+data/raw/
+*.ld
+*.ldx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+sandbox/
+
+# MATLAB
+*.asv
+*.mat
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
